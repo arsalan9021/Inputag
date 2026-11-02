@@ -1,2 +1,0 @@
-# Inputag
-inputag practice
